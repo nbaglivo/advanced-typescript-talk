@@ -1,4 +1,4 @@
-@title[1]
+@title[uno]
 
 ### Record
 
@@ -22,7 +22,7 @@ const list: ClientServicesList {
 
 ---
 
-@title[2]
+@title[dos]
 
 ### Keyof
 
